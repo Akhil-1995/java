@@ -1,0 +1,11 @@
+
+Œsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ‹ÀÕýÿÿÿÿH/RMINORZ
+CODE_SMELL
+‚squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ð¢¸›8Üªö±È-H3RMINORZ
+CODE_SMELL
+‚squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ûÇý8Üªö±È-H4RMINORZ
+CODE_SMELL
+bsquid:S1068"/Remove this unused "currentTemp" private field.(É±ìù8Üªö±È-H5RMAJORZ
+CODE_SMELL
+gsquid:S1068"/Remove this unused "desiredTemp" private field.(½ÄÅ‘úÿÿÿÿ8Üªö±È-H6RMAJORZ
+CODE_SMELL
